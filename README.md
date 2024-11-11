@@ -56,8 +56,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Output : 
 
 
-=== Code Execution Successful ===
-
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
