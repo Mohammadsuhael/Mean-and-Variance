@@ -49,11 +49,14 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
+![Screenshot 2024-11-11 091802](https://github.com/user-attachments/assets/10744b58-664f-47ae-8131-1f2b9f1a0a8e)
 
 
 
 
 # Output : 
+
+![Screenshot 2024-11-11 092033](https://github.com/user-attachments/assets/c39eb12b-9956-4437-aeee-139970aa3725)
 
 
 # Results :
